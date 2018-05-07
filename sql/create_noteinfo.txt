@@ -1,0 +1,7 @@
+create table noteinfo(
+note1  varchar(100),
+note2  varchar(100),
+note3  varchar(100),
+note4  varchar(100),
+note5  varchar(100),
+note6  carchar(100));

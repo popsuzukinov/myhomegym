@@ -1,0 +1,6 @@
+insert into noteinfo (note1) values ('プロテインは大切に扱え！'),
+insert into noteinfo (note2) values ('即死ポイントに気をつけて！'),
+insert into noteinfo (note3) values (''),
+insert into noteinfo (note4) values ('');
+
+insert into noteinfo (note1,note2,note3,note4) values ('プロテインは大切に扱え！','即死ポイントに気をつけて！','ファイナルファンタジー15楽しいな！','プロテインは持ったか？');
